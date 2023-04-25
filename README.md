@@ -3,6 +3,7 @@ Anlık olarak liste içerisindeki ilk 10 depremi gösterir. Ayrıca İstanbul'da
 
 Kurulum 
 git clone https://github.com/suskunpublicheroes/deprem.git
+
 pip install playsound
 
 Kullanım
